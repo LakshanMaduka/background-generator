@@ -7,4 +7,3 @@ function changeColor(){
 }
 color1.addEventListener("input", changeColor);
 color2.addEventListener("input", changeColor);
-const p =
